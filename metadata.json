@@ -1,6 +1,0 @@
-{
-  "name": "OmniStream IPTV",
-  "description": "Native Android IPTV player and multi-tool supporting M3U/M3U8 playlists, Xtream Codes, XMLTV EPG, Media3 player, GitHub repository integration, and IPTV analysis tools.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
